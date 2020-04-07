@@ -165,6 +165,7 @@
 
     }
 
+
     .work {
         position: relative;
         float: center;
@@ -234,4 +235,5 @@
       color: #000000;
       cursor: pointer;
       background: #ffffff;
-      border: 0 none;
+      border: 0 none
+    }
